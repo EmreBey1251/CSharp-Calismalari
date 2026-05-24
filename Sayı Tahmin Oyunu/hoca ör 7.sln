@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hoca ör 7", "hoca ör 7.csproj", "{52B19CB9-C5FF-4601-A31E-7494248185C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B19CB9-C5FF-4601-A31E-7494248185C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B19CB9-C5FF-4601-A31E-7494248185C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B19CB9-C5FF-4601-A31E-7494248185C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B19CB9-C5FF-4601-A31E-7494248185C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34EC6D42-2FE4-41B3-93F5-66EAA29CBCE8}
+	EndGlobalSection
+EndGlobal

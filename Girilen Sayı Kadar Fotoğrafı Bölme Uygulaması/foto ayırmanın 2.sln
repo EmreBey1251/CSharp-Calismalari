@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foto ayırmanın 2", "foto ayırmanın 2.csproj", "{0CCDC011-89E0-44DF-8FE2-77DD0F3B7F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCDC011-89E0-44DF-8FE2-77DD0F3B7F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCDC011-89E0-44DF-8FE2-77DD0F3B7F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCDC011-89E0-44DF-8FE2-77DD0F3B7F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCDC011-89E0-44DF-8FE2-77DD0F3B7F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AFB257B-3E66-4854-AC79-2A7B5842D643}
+	EndGlobalSection
+EndGlobal
